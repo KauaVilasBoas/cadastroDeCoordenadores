@@ -7,27 +7,24 @@ A nossa aplicação Web é um sistema de gerenciamneto de coordenadores, que Cad
 - Após o código estar aberto em sua area de trabalho do Eclipse, e sem erros, localize o seguinte caminho: `src/main/webapp`, e então rode o "menu.jsp" com o servidor Tomcat v9.0, criado anteriormente
 
 ## Tecnologias usadas
-- Java 17
-- HTML
-- CSS
+- Java 17;
+- HTML;
+- CSS;
+- Apache TomCat versão 9.0
 
 
 ## Funcionalidades do sistema
-- Inserir coordenador (nome do coordenador, email do coordenador, )
-- Editar coordenador
-- Deletar coordenador
-- Ler lista
-- O sistema impede e alerta o usuário quando ocorre uma tentativa de cadastrar dois coordenadores com o mesmo email
+- Inserir coordenador (nome do coordenador, email do coordenador, horario de disponibilidade e cursos pertencentes);
+- Editar coordenador;
+- Deletar coordenador;
+- Ler lista;
+- O sistema impede e alerta o usuário quando ocorre uma tentativa de cadastrar dois coordenadores com o mesmo email;
 
 
 ## Estruturas das pastas
 - `Java Resources/src/main/java/controller` Pacote onde fica o Servlet
+- `Java Resources/src/main/java/model` Pacote onde fica as classes e objetos
 - `src/main/webapp` Pasta onde fica a camada View, ou seja, as interfaces/Front End 
-
-
-## Melhorias
-
-
 
 
 ## Telas da aplicação
