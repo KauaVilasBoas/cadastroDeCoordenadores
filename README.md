@@ -10,7 +10,6 @@ A nossa aplicação Web é um sistema de gerenciamneto de coordenadores, que Cad
 - Java 17
 - HTML
 - CSS
-- JavaScript
 
 
 ## Funcionalidades do sistema
