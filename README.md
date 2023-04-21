@@ -18,6 +18,7 @@ A nossa aplicação Web é um sistema de gerenciamneto de coordenadores, que Cad
 - Editar coordenador
 - Deletar coordenador
 - Ler lista
+- O sistema impede e alerta o usuário quando ocorre uma tentativa de cadastrar dois coordenadores com o mesmo email
 
 
 ## Estruturas das pastas
