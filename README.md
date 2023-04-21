@@ -34,5 +34,6 @@ A nossa aplicação Web é um sistema de gerenciamneto de coordenadores, que Cad
 
 ![menuFOTO](https://user-images.githubusercontent.com/87386717/233247427-e31c785c-2628-4315-b09a-5a22f0e99c70.jpg)
 ![cadastrarCoordFOTO](https://user-images.githubusercontent.com/87386717/233247437-86b8b774-074d-4226-98b7-bd6ea2c64dd0.jpg)
-![mostruarioFOTO](https://user-images.githubusercontent.com/87386717/233247451-dbe63d1c-df5b-43e8-8289-b91957386e45.jpg)
 ![editarCoordFOTO](https://user-images.githubusercontent.com/87386717/233247469-a6a8f069-230b-42c0-927a-a7f13bab300e.jpg)
+![mostruarioFOTO jpg](https://user-images.githubusercontent.com/87386717/233511556-c2d210b2-f88b-4a87-b259-84cf42b2cc42.png)
+
